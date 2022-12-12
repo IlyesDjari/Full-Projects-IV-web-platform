@@ -8,16 +8,24 @@ Repository link: https://github.com/EHB-MCT/Full-Projects-IV-web-platform.git
 
 Website: https://finalshow.be/
 
-The platform was built using the React library (https://reactjs.org/).
 
-```
-git clone https://github.com/EHB-MCT/Full-Projects-IV-web-platform.git
+This is a web platform created as a project for the Full-Stack Development IV course. It is built using modern web technologies such as React, Redux, and Node.js.
 
-cd Full-Projects-IV-web-platform
+The platform allows users to register and log in to their accounts. Once logged in, they can create and manage their own projects, as well as collaborate with other users on shared projects.
 
-npm i
+Installation
+To install and run the platform on your local machine, follow these steps:
 
-npm start
+Clone the repository: git clone https://github.com/IlyesDjari/Full-Projects-IV-web-platform
+Install the dependencies: npm install
+Start the development server: npm start
+The platform should now be running at http://localhost:3000.
+
+Contributing
+If you want to contribute to the project, you can submit a pull request with your proposed changes. Please make sure to follow the existing code style and conventions, and to include tests for any new features or changes.
+
+License
+This project is licensed under the MIT License. See LICENSE for more details.
 
 ```
 
